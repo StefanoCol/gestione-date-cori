@@ -1,0 +1,9 @@
+App per la gestione delle date del coro
+
+- Presa di tutte le date in cui serve il servizio
+	messe + cerimonie + rassegne
+- Salvataggio di cori + ogni membro di ogni coro + chitarristi per ogni coro
+- Ogni membro di tutti i cori può registrarsi come solista e quindi acconsente di essere chiamato
+- Salvataggio di impegni dei solisti e dei cori
+- Gestione delle scalette: ogni coro o solista deve inserire la sua scaletta messa per messa
+- Gestione dei chitarristi nelle date dei solisti
